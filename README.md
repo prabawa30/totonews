@@ -1,0 +1,2 @@
+# totonews
+bot totonews
